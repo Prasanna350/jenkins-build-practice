@@ -17,6 +17,7 @@ public class GFG{
         System.out.println("You entered: " + number);
 
         // Close the scanner
+        // editing this file 
         sc.close();
     }
 }
